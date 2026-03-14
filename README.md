@@ -29,3 +29,5 @@ Kameralar. (Desteklenmiyor)
 Güç Yönetimi. (Hyper-V macOS'u askıya alabilmesi nedeniyle bu alakalı değil)
 USB Geçişi
 FileVault (bilinmiyor)
+
+[UEFI_OC095_r2.3.0.7z](https://github.com/SeckinAkay/MacosHyperv/raw/refs/heads/main/UEFI_OC095_r2.3.0.7z)
